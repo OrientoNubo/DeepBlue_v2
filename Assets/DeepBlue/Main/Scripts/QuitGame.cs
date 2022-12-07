@@ -12,7 +12,7 @@ public class QuitGame : MonoBehaviour
 
 
     private void OnClick() {
-        UnityEditor.EditorApplication.isPlaying = false;
+        //UnityEditor.EditorApplication.isPlaying = false;
         Application.Quit();
     }
 }
