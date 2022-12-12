@@ -19,7 +19,7 @@ MonoBehaviour:
       hdr: 1
       darknessColor: {r: 0, g: 0, b: 0, a: 0.78039217}
       depth: -100
-      resolution: 1
+      resolution: 0.25
       dayLayers:
         list: []
       lightLayers:
@@ -51,9 +51,9 @@ MonoBehaviour:
         list:
         - layerID: 0
   qualitySettings:
-    lightTextureSize: 3
-    lightEffectTextureSize: 3
-    lightFilterMode: 0
+    lightTextureSize: 1
+    lightEffectTextureSize: 1
+    lightFilterMode: 2
     lightmapFilterMode: 1
     updateMethod: 0
     coreAxis: 0

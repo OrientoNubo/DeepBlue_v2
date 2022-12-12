@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fac9bd89dcafc049b19f543ccf8fd57, type: 3}
+  m_Name: PrpsPicker_eye read 1
+  m_EditorClassIdentifier: 
+  ItemID: PrpsPicker_eye read 1
+  TargetInventoryName: KoalaMainInventory
+  ForceSlotIndex: 0
+  TargetIndex: 0
+  Usable: 0
+  Consumable: 1
+  ConsumeQuantity: 1
+  Equippable: 0
+  MoveWhenEquipped: 1
+  Droppable: 1
+  CanMoveObject: 1
+  CanSwapObject: 1
+  DisplayProperties:
+    DisplayEquipUseButton: 0
+    DisplayMoveButton: 1
+    DisplayDropButton: 1
+    DisplayEquipButton: 1
+    DisplayUseButton: 1
+    DisplayUnequipButton: 0
+  Quantity: 1
+  ItemName: "\u7834\u788E\u738B\u8005\u7684\u5F80\u4E8B"
+  ShortDescription: "\u95DC\u65BC\u7834\u788E\u738B\u8005Abyss\u904E\u5F80\u7684\u6545\u4E8B"
+  Description: "Abyss\u539F\u672C\u4E5F\u53EA\u662F\u4E00\u500B\u666E\u901A\u7684\u9752\u5E74\uFF0C\u4F46\u67D0\u4E00\u5929\u4ED6\u7684\u59BB\u5B50Elizabeth\u88AB\u5927\u5C71\u88CF\u4F86\u7684\u76DC\u8CCA\u5011\u4EE5\u6975\u5176\u6B98\u5FCD\u7684\u65B9\u5F0F\u6BBA\u5BB3\u4E86\u3002\u56DE\u5230\u5BB6\u5F8C\u7684Abyss\u7121\u6CD5\u63A5\u53D7\u9019\u500B\u6B98\u9177\u7684\u4E8B\u5BE6\uFF0C\u4ED6\u767C\u4E86\u760B\u4F3C\u7684\u5411\u7070\u8272\u5929\u7A7A\u6012\u543C\u8457\u3002\u5C31\u5728\u90A3\u6642\uFF0C\u9060\u8655\u7684\u5C71\u7A81\u7136\u6D88\u5931\u4E0D\u898B\u4E86\uFF0C\u539F\u672C\u5C71\u7684\u90A3\u908A\u5728\u4E00\u77AC\u9593\u51FA\u73FE\u4E86\u5979\u59BB\u5B50\u7684\u8EAB\u5F71\u3002Abyss\u5927\u53EB\u8457\u885D\u5411\u90A3\u88CF\uFF0C\u800C\u5C31\u5728\u5FEB\u8981\u5230\u9054\u7684\u6642\u5019\uFF0C\u6211\u7684\u773C\u524D\u8B8A\u6210\u4E00\u7247\u9ED1\uFF0C\u4EC0\u9EBD\u90FD\u770B\u4E0D\u898B\uFF0C\u4EC0\u9EBD\u90FD\u611F\u89BA\u4E0D\u5230... "
+  Icon: {fileID: 21300000, guid: d9bfdc92439316c4fba4382f246d3e1c, type: 3}
+  Prefab: {fileID: 8452702668209926334, guid: e13233e37f4848d48a1b14dfdd2b55eb, type: 3}
+  DropProperties:
+    Shape: 0
+    NormalToSpawnPlane: {x: 0, y: 1, z: 0}
+    MinimumSphereRadius: 1
+    MaximumSphereRadius: 2
+    MinimumCubeBaseSize: {x: 1, y: 1, z: 1}
+    MaximumCubeBaseSize: {x: 2, y: 2, z: 2}
+    MinimumNormalAxisOffset: 0
+    MaximumNormalAxisOffset: 0
+    UseNormalAxisOffsetCurve: 0
+    NormalOffsetCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    NormalOffsetCurveRemapZero: 0
+    NormalOffsetCurveRemapOne: 1
+    InvertNormalOffsetCurve: 0
+    MinimumRotation: {x: 0, y: 0, z: 0}
+    MaximumRotation: {x: 0, y: 0, z: 0}
+    MinimumScale: {x: 1, y: 1, z: 1}
+    MaximumScale: {x: 1, y: 1, z: 1}
+  MaximumStack: 1
+  ItemClass: 0
+  TargetEquipmentInventoryName: 
+  EquippedSound: {fileID: 0}
+  UsedSound: {fileID: 0}
+  MovedSound: {fileID: 8300000, guid: 627abbac5fdc4ab479120194f9407e36, type: 3}
+  DroppedSound: {fileID: 8300000, guid: 71de5e3d4b3cb9a42aea16c67093f91d, type: 3}
+  UseDefaultSoundsIfNull: 1

@@ -72,7 +72,7 @@ MonoBehaviour:
   WeaponUseTransform: {fileID: 0}
   LeftHandHandle: {fileID: 0}
   RightHandHandle: {fileID: 0}
-  ModifyMovementWhileAttacking: 0
+  ModifyMovementWhileAttacking: 1
   MovementMultiplier: 0
   PreventAllMovementWhileInUse: 0
   PreventAllAimWhileInUse: 0
@@ -116,7 +116,7 @@ MonoBehaviour:
   MinDamageCaused: 10
   MaxDamageCaused: 10
   Knockback: 1
-  KnockbackForce: {x: 100, y: 0, z: 0}
+  KnockbackForce: {x: 0, y: 0, z: 0}
   InvincibilityDuration: 0.5
   CanDamageOwner: 0
 --- !u!114 &6468817600412821321
@@ -189,7 +189,7 @@ SpriteRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6468817600720472774}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1

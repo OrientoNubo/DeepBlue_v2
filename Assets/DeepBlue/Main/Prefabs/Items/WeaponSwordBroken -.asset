@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af1c561813379b94c8d7a45902d9089e, type: 3}
+  m_Name: WeaponSwordBroken
+  m_EditorClassIdentifier: 
+  ItemID: WeaponSwordBroken
+  TargetInventoryName: KoalaMainInventory
+  ForceSlotIndex: 0
+  TargetIndex: 0
+  Usable: 1
+  Consumable: 1
+  ConsumeQuantity: 1
+  Equippable: 0
+  MoveWhenEquipped: 1
+  Droppable: 1
+  CanMoveObject: 1
+  CanSwapObject: 1
+  DisplayProperties:
+    DisplayEquipUseButton: 1
+    DisplayMoveButton: 1
+    DisplayDropButton: 1
+    DisplayEquipButton: 1
+    DisplayUseButton: 1
+    DisplayUnequipButton: 1
+  Quantity: 1
+  ItemName: "\u7834\u640D\u7684\u65B7\u528D"
+  ShortDescription: "\u5728 \u6DF1\u85CD\u4E16\u754C-\u57CE\u5821\u5916\u570D \u53D6\u5F97"
+  Description: "\u528D\u8EAB\u6563\u767C\u8457\u6DE1\u6DE1\u7684\u85CD\u5149\uFF0C\u9298\u6587\u8655\u523B\u8457\uFF1A\u7232\u7D42\u6B62\u541E\u566C\u4E16\u754C\u7684\u7D42\u7AEF\u4E4B\u738B\uFF0C\u9A0E\u58EB\u5316\u8EAB\u7232\u5200\u92D2\u3002\n\u528D\u8EAB\u65B7\u88C2\u8655\u5341\u5206\u5E73\u6574\uFF0C\u770B\u4E0A\u53BB\u5E76\u4E0D\u662F\u906D\u5230\u7834\u58DE\u624D\u5F62\u6210\uFF0C\u4F3C\u4E4E\u662F\u5176\u539F\u672C\u7684\u5F62\u614B\u3002"
+  Icon: {fileID: 21300000, guid: 6816dc85e6de76a42aa027cb9f37759a, type: 3}
+  Prefab: {fileID: 8452702668209926334, guid: 8ab6160755a61a546bdefc5ad360be06, type: 3}
+  DropProperties:
+    Shape: 0
+    NormalToSpawnPlane: {x: 0, y: 1, z: 0}
+    MinimumSphereRadius: 1
+    MaximumSphereRadius: 2
+    MinimumCubeBaseSize: {x: 1, y: 1, z: 1}
+    MaximumCubeBaseSize: {x: 2, y: 2, z: 2}
+    MinimumNormalAxisOffset: 0
+    MaximumNormalAxisOffset: 0
+    UseNormalAxisOffsetCurve: 0
+    NormalOffsetCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    NormalOffsetCurveRemapZero: 0
+    NormalOffsetCurveRemapOne: 1
+    InvertNormalOffsetCurve: 0
+    MinimumRotation: {x: 0, y: 0, z: 0}
+    MaximumRotation: {x: 0, y: 0, z: 0}
+    MinimumScale: {x: 1, y: 1, z: 1}
+    MaximumScale: {x: 1, y: 1, z: 1}
+  MaximumStack: 1
+  ItemClass: 0
+  TargetEquipmentInventoryName: 
+  EquippedSound: {fileID: 0}
+  UsedSound: {fileID: 0}
+  MovedSound: {fileID: 0}
+  DroppedSound: {fileID: 0}
+  UseDefaultSoundsIfNull: 1

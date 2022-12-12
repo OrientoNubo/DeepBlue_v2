@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fac9bd89dcafc049b19f543ccf8fd57, type: 3}
+  m_Name: PrpsPicker_full_sword
+  m_EditorClassIdentifier: 
+  ItemID: PrpsPicker_full_sword
+  TargetInventoryName: KoalaMainInventory
+  ForceSlotIndex: 0
+  TargetIndex: 0
+  Usable: 0
+  Consumable: 1
+  ConsumeQuantity: 1
+  Equippable: 0
+  MoveWhenEquipped: 1
+  Droppable: 1
+  CanMoveObject: 1
+  CanSwapObject: 1
+  DisplayProperties:
+    DisplayEquipUseButton: 0
+    DisplayMoveButton: 1
+    DisplayDropButton: 1
+    DisplayEquipButton: 1
+    DisplayUseButton: 1
+    DisplayUnequipButton: 0
+  Quantity: 1
+  ItemName: "Abyss\u7684\u9280\u767D\u4E4B\u528D"
+  ShortDescription: "\u7834\u788E\u738B\u8005\u7684\u528D"
+  Description: "\u5B8C\u6574\u7684\u528D\u8EAB\u6563\u767C\u51FA\u4E00\u80A1\u4EE4\u4EBA\u58D3\u6291\u7684\u6C23\u606F\uFF0C\u9280\u767D\u8272\u7684\u6D41\u5149\u6B63\u4E0D\u65B7\u532F\u5165\u528D\u8EAB\uFF0C\u4EFF\u4F5B\u6B63\u7A4D\u84C4\u8457\u4E00\u80A1\u5373\u5C07\u7206\u767C\u7684\u80FD\u91CF\u3002\n\u528D\u9AD4\u7531\u65BC\u80FD\u91CF\u7684\u7A4D\u84C4\u904E\u65BC\u9F90\u5927\uFF0C\u5C0E\u81F4\u7121\u6CD5\u7A69\u5B9A\u63E1\u6301\u5728\u624B\u4E2D\uFF0C\u6545\u7121\u6CD5\u4F5C\u7232\u6B66\u5668\u4F7F\u7528\u3002"
+  Icon: {fileID: 21300000, guid: 12feecaa032ff6648a49d232618a43e3, type: 3}
+  Prefab: {fileID: 8452702668209926334, guid: 537b3e428793f8142a38211a5be49071, type: 3}
+  DropProperties:
+    Shape: 0
+    NormalToSpawnPlane: {x: 0, y: 1, z: 0}
+    MinimumSphereRadius: 1
+    MaximumSphereRadius: 2
+    MinimumCubeBaseSize: {x: 1, y: 1, z: 1}
+    MaximumCubeBaseSize: {x: 2, y: 2, z: 2}
+    MinimumNormalAxisOffset: 0
+    MaximumNormalAxisOffset: 0
+    UseNormalAxisOffsetCurve: 0
+    NormalOffsetCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    NormalOffsetCurveRemapZero: 0
+    NormalOffsetCurveRemapOne: 1
+    InvertNormalOffsetCurve: 0
+    MinimumRotation: {x: 0, y: 0, z: 0}
+    MaximumRotation: {x: 0, y: 0, z: 0}
+    MinimumScale: {x: 1, y: 1, z: 1}
+    MaximumScale: {x: 1, y: 1, z: 1}
+  MaximumStack: 1
+  ItemClass: 0
+  TargetEquipmentInventoryName: 
+  EquippedSound: {fileID: 0}
+  UsedSound: {fileID: 0}
+  MovedSound: {fileID: 8300000, guid: 627abbac5fdc4ab479120194f9407e36, type: 3}
+  DroppedSound: {fileID: 8300000, guid: 71de5e3d4b3cb9a42aea16c67093f91d, type: 3}
+  UseDefaultSoundsIfNull: 1
