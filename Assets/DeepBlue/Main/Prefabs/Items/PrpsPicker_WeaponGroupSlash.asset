@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9529ae2b2ee0d1e4d802b51d271424c3, type: 3}
+  m_Name: PrpsPicker_WeaponGroupSlash
+  m_EditorClassIdentifier: 
+  ItemID: WeaponGroupSlash
+  TargetInventoryName: KoalaMainInventory
+  ForceSlotIndex: 1
+  TargetIndex: 15
+  Usable: 0
+  Consumable: 1
+  ConsumeQuantity: 1
+  Equippable: 1
+  MoveWhenEquipped: 1
+  Droppable: 1
+  CanMoveObject: 1
+  CanSwapObject: 1
+  DisplayProperties:
+    DisplayEquipUseButton: 1
+    DisplayMoveButton: 1
+    DisplayDropButton: 1
+    DisplayEquipButton: 1
+    DisplayUseButton: 1
+    DisplayUnequipButton: 1
+  Quantity: 1
+  ItemName: "\u9B54\u6CD5\u89F8\u767C\u5A92\u4ECB - \u738B\u8005\u9707\u61FE"
+  ShortDescription: "\u4EE3\u8868\u738B\u8005\u7684\u98FE\u54C1"
+  Description: "\u4EAE\u51FA\u738B\u8005\u4E4B\u51A0\uFF0C\u8DB3\u4EE5\u9707\u61FE\u6575\u4EBA\u3002\n\u53EF\u4EE5\u4F5C\u7232\u6B66\u5668\u4F7F\u7528\u3002\n\n\u201C\u4EE3\u8868\u738B\u8005\u7684\u982D\u51A0\uFF0C\u5F80\u5F80\u6234\u5728\u6B7B\u4EBA\u982D\u4E0A\u6700\u7232\u5B89\u7A69\u3002\u201D"
+  Icon: {fileID: 21300000, guid: f658c4bf6b39cce4085c25c3f66d93dd, type: 3}
+  Prefab: {fileID: 8452702668209926334, guid: 5d7a34f01390ec047a2a447296599b01, type: 3}
+  DropProperties:
+    Shape: 0
+    NormalToSpawnPlane: {x: 0, y: 1, z: 0}
+    MinimumSphereRadius: 1
+    MaximumSphereRadius: 2
+    MinimumCubeBaseSize: {x: 1, y: 1, z: 1}
+    MaximumCubeBaseSize: {x: 2, y: 2, z: 2}
+    MinimumNormalAxisOffset: 0
+    MaximumNormalAxisOffset: 0
+    UseNormalAxisOffsetCurve: 0
+    NormalOffsetCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    NormalOffsetCurveRemapZero: 0
+    NormalOffsetCurveRemapOne: 1
+    InvertNormalOffsetCurve: 0
+    MinimumRotation: {x: 0, y: 0, z: 0}
+    MaximumRotation: {x: 0, y: 0, z: 0}
+    MinimumScale: {x: 1, y: 1, z: 1}
+    MaximumScale: {x: 1, y: 1, z: 1}
+  MaximumStack: 1
+  ItemClass: 2
+  TargetEquipmentInventoryName: KoalaWeaponInventory
+  EquippedSound: {fileID: 0}
+  UsedSound: {fileID: 0}
+  MovedSound: {fileID: 0}
+  DroppedSound: {fileID: 0}
+  UseDefaultSoundsIfNull: 1
+  EquippableWeapon: {fileID: 3790146460006076927, guid: af5a9b5d58579f94e960b9c853c2fcc4,
+    type: 3}
+  AutoEquipMode: 0
+  HandleWeaponID: 1

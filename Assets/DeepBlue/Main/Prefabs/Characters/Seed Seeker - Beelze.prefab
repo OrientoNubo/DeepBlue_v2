@@ -278,6 +278,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: DB Modifed Usable UI
       objectReference: {fileID: 0}
+    - target: {fileID: 8574345596487405378, guid: db101e8b2db885a459f268fd4032e51d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8574345596507524476, guid: db101e8b2db885a459f268fd4032e51d,
         type: 3}
       propertyPath: m_AnchorMax.y

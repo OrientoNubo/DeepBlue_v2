@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: lava_v2_edge_left
   m_EditorClassIdentifier: 
   m_AnimatedSprites:
-  - {fileID: 1522328924, guid: 96fafd04d8033e144bedab0745b2eaa9, type: 3}
-  - {fileID: 1799111807, guid: f42d929dd451e2541b24bb5dbd49cdb4, type: 3}
+  - {fileID: -592579264, guid: 43dab95de07e3044fbf4524304b52955, type: 3}
+  - {fileID: -592579264, guid: 43dab95de07e3044fbf4524304b52955, type: 3}
   m_MinSpeed: 1
   m_MaxSpeed: 1
   m_AnimationStartTime: 0

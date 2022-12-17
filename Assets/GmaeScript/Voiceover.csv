@@ -1,0 +1,90 @@
+Database,Dialogue Database Main 01,,
+Author,,,
+Version,,,
+Description,,,
+,,,
+---Actors---,,,
+Name,Description,,
+Player,,,
+NPC,,,
+,,,
+---Conversations---,,,
+,,,
+Conversation 1,Barks,,
+Description,,,
+entrytag,Actor,Description,Dialogue Text
+NPC_1_1,NPC,,AAA
+NPC_1_2,NPC,,BBB
+NPC_1_3,NPC,,CCC
+,,,
+Conversation 2,Dialogue_Beelze,,
+Description,,,
+entrytag,Actor,Description,Dialogue Text
+NPC_2_1,NPC,,哦？又是從其他世界掉出來的嗎？你的形態… 似乎和我之前遇到的那位很相似…
+NPC_2_2,NPC,,不管怎麼說，你非常的幸運，明明這個世界也僅能維持這麼一片可以落腳的地方，你卻可以在眾多破碎中正好掉在這。這裡是“書冊世界”之一的<deepblue>。
+NPC_2_3,NPC,,而你，你的型態，我想也是在某個“書冊世界”所誕生的生命... 另外，我的名字是Beelze，是一位在破碎中尋找<種子>的旅者。
+NPC_2_5,NPC,,對於種子，我只能說，如果你有機會見到的話，你自然會理解。而“書冊世界”，我想等你有機會進入其他世界的時候自然會明白。對於現在，我唯一能幫你的，只有告知一下這座城堡的所有者：“外面又有了一位無家可歸之徒”。而至於接下來的事，大概就與我無關了。
+NPC_2_6,NPC,,大門應該已經打開了吧。你還在期待我說什麼？ 你對我來説微不足道，我不想浪費口舌。
+Player_2_7,Player,,什麽意思？我現在在哪裡？發生了什麽？
+Player_2_8,Player,,什麽是“書冊世界”？ 什麽是種子？
+,,,
+Conversation 3,Test Props Collection,,
+Description,還未得到測試物件,,
+entrytag,Actor,Description,Dialogue Text
+NPC_3_1,NPC,,需要收集測試物件！
+Player_3_2,Player,,我會去找測試物件的！
+NPC_3_3,NPC,,拿到兩個測試物件了嗎？
+Player_3_4,Player,,拿到了！
+Player_3_5,Player,,還沒找到！
+NPC_3_6,NPC,,恭喜你完成測試任務！
+,,,
+Conversation 4,Dialogue_Sandalphon,,
+Description,,,
+entrytag,Actor,Description,Dialogue Text
+NPC_4_1,NPC,,我是這座城堡的管理者Sandalphon，與其說是這座城堡，不如說是這個世界、這個故事。啊…這又讓我回憶起了那座令我彷徨的“山”，那個我所執筆的第二個世界。
+NPC_4_2,NPC,,我當時只是個孩子，深深地為“人生”的痛苦而悲哀，就像年輕時的Buddha，看到疾病與老年、痛苦與死亡，而那時的我所得出的結論是：創造世界者，不是心地善良之輩，而是從人類的痛苦中得到快樂的邪道。
+NPC_4_3,NPC,,作為從底層世界誕生的你來說可能難以理解我想表達的是什麼，所以我也並不期望你要做什麽，我只是在這裡靜靜地等待著我的希望（希望之劍），你確實也有一把劍，不過那應該不是我所尋找的，你所擁有的只是一把無用的斷劍。
+NPC_4_4,NPC,,...... ......
+NPC_4_5,NPC,,看來你並沒有什麽重要的事......
+NPC_4_6,NPC,,爲什麽我在這裡感受到了一股熟悉的力量......
+NPC_4_7,NPC,,啊~ 你身上的這把劍！這就是我渴求的力量！是能夠打破界限的偉大力量！是我的力量！
+Player_4_8,Player,,我似乎明白了這把劍真正的作用，如果可以重新觸發“破碎”，我就還有機會找到Skelis，她一直還在某個世界的角落... 所以我，決定在此使用“銀白之劍”再次觸發“破碎”！
+Player_4_9,Player,,我還不清楚這把劍真正的作用，如果你能幫助我更好地利用它的力量的話，我就先交給你保管。
+NPC_4_10,NPC,,不！那是我的力量！你不能打破這個世界！
+NPC_4_11,NPC,,美妙！等我掌控了破碎的力量，我就擁有了與上位統治者們相匹敵的力量！哈哈哈哈哈！
+Player_4_12,Player,,將“銀白之劍交給管理者”
+Player_4_13,Player,,敲斷劍柄（觸發“破碎之力”）
+NPC_4_14,NPC,,
+NPC_4_15,NPC,,
+,,,
+Conversation 5,Dialogue_Rafea,,
+Description,,,
+entrytag,Actor,Description,Dialogue Text
+NPC_5_1,NPC,,你是剛剛掉落在門口的人吧，我是很久之前从一個充滿“山”的地方掉到這裡來的商人，我叫Rafea，在這做了很久的生意。
+NPC_5_2,NPC,,告訴你一個秘密：這城堡的地牢可以通向很深的地下，但地下似乎怪得很，總有人會莫名其妙死在地牢的門口。至於為什麼還有人會去地牢？那當然是因為地牢裡有很多“奇特的珍品”
+NPC_5_3,NPC,,我很喜歡收藏珍品，如果你可以給我帶來“奇特的珍品”，我願意和你交換一些有用的道具。當然，前提是那件物品要夠奇特。
+NPC_5_4,NPC,,如果你有“奇特的珍品”，我很願意和你交換一些有用的道具。當然，前提是那件物品要夠奇特。
+NPC_5_5,NPC,,爲什麽我的珍品都失去的光芒！啊不！
+,,,
+Conversation 6,Dialogue_Inanna,,
+Description,,,
+entrytag,Actor,Description,Dialogue Text
+NPC_6_1,NPC,,...... 你有什麽問題嗎？
+NPC_6_2,NPC,,我是學習能量魔法的Inanna。我建議你可以在這裡先修養一陣子，畢竟這也是她(Skelis)停留過的地方，或許給你留下一些信息。對了，如果你可以給我帶來一些蘊含能量的東西，這樣我就能從中提取出“魔法啓示”，這樣你也能從中學習到魔法。
+NPC_6_3,NPC,,受到剛剛那次破碎的影響，在這座城堡的地牢里似乎又出現了連接到其他世界的裂縫，但那些應該都是經受詛咒的片段，可能並不是她當初所接觸的世界，但如果你願意，也是可以去嘗試一下。
+NPC_6_4,NPC,,你可以去地牢看看，如果可以帶回來什麽蘊含能量的東西，我或許可以教授你魔法。
+NPC_6_5,NPC,,這是...劍？我無法理解這把劍所蘊含的能量，但它的能量似乎正從劍身的一個缺口處慢慢流失，你希望我修復這個破損嗎？我想這我應該還是可以做到的。
+NPC_6_6,NPC,,... ... ...
+NPC_6_7,NPC,,應該修復好了，似乎這把劍的能量開始在内部聚集，我感受到了無法形容的壓迫...... 這股力量與我相排斥......
+NPC_6_8,NPC,,啊... 這種前所未有的暈眩感......
+NPC_6_9,NPC,,這把劍的能量，似乎和我很久之前所見過的“破碎之劍”很相似，而那把劍，就是讓這裏的管理者始終都堅持維繫這個世界的動力，他似乎想要掌握那股難以支配的力量。
+NPC_6_10,NPC,,如果這把劍與“破碎之劍”是類似的話，那麽劍身這股不斷積蓄的力量就説得通了，我記得沒錯的話，劍柄是“破碎力量”的觸發口，如果打碎劍柄，或許可以觸發“破碎”的力量......
+NPC_6_11,NPC,,哦，新來的旅者，你說在來到這裡之前同行者還有個女孩？叫Skelis？我知道這個名字，她也曾來到過這，我指導過她魔法，她真是一位天賦異稟的學生，我相信她在魔法上的成就一定會超越我的畢生所學。
+Player_6_12,Player,,請問，你有見過一個黑髮女子嗎？她叫Skelis，她是我的同伴，似乎是在我落到這裡的時候走散了。
+,,,
+Conversation 7,Dialogue_Vanque,,
+Description,,,
+entrytag,Actor,Description,Dialogue Text
+NPC_7_1,NPC,,...... ...... ......
+NPC_7_2,NPC,,不要來打擾我，和你說話就是在浪費我寶貴的時間。
+NPC_7_3,NPC,,啊啊啊！我感受到了！聖種在萌芽！聖種在呼喚！
