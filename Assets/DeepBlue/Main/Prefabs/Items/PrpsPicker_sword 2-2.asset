@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ItemID: PrpsPicker_sword 2-2
   TargetInventoryName: KoalaMainInventory
-  ForceSlotIndex: 0
-  TargetIndex: 0
+  ForceSlotIndex: 1
+  TargetIndex: 20
   Usable: 0
   Consumable: 1
   ConsumeQuantity: 1

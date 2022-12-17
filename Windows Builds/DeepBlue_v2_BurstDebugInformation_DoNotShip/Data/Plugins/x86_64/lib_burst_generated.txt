@@ -122,6 +122,7 @@ Library: lib_burst_generated
 --compilation-defines=MOREMOUNTAINS_TEXTMESHPRO_INSTALLED
 --compilation-defines=MOREMOUNTAINS_TOOLS_FOR_MMFEEDBACKS
 --compilation-defines=USE_PHYSICS2D
+--compilation-defines=USE_TIMELINE
 --compilation-defines=PACKAGE_PHYSICS
 --compilation-defines=PACKAGE_PHYSICS2D
 --compilation-defines=PACKAGE_TILEMAP
@@ -325,6 +326,7 @@ Library: lib_burst_generated
 --compilation-defines=MOREMOUNTAINS_TEXTMESHPRO_INSTALLED
 --compilation-defines=MOREMOUNTAINS_TOOLS_FOR_MMFEEDBACKS
 --compilation-defines=USE_PHYSICS2D
+--compilation-defines=USE_TIMELINE
 --compilation-defines=PACKAGE_PHYSICS
 --compilation-defines=PACKAGE_PHYSICS2D
 --compilation-defines=PACKAGE_TILEMAP
