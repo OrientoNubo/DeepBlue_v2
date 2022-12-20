@@ -14846,12 +14846,12 @@ MonoBehaviour:
     m_Bits: 8448
   Owner: {fileID: 0}
   TriggerFilter: 195
-  MinDamageCaused: 10
-  MaxDamageCaused: 10
+  MinDamageCaused: 25
+  MaxDamageCaused: 25
   TypedDamages: []
   DamageCausedKnockbackType: 1
   DamageCausedKnockbackDirection: 0
-  DamageCausedKnockbackForce: {x: 200, y: 10, z: 0}
+  DamageCausedKnockbackForce: {x: 50, y: 5, z: 0}
   InvincibilityDuration: 0
   RepeatDamageOverTime: 0
   AmountOfRepeats: 3
@@ -15093,6 +15093,7 @@ GameObject:
   - component: {fileID: 1310075098673425840}
   - component: {fileID: 1310075098673425842}
   - component: {fileID: 1310075098673425841}
+  - component: {fileID: 2009388517713513113}
   m_Layer: 18
   m_Name: DamageFeedback
   m_TagString: Untagged
@@ -15130,6 +15131,7 @@ MonoBehaviour:
   Feedbacks:
   - {fileID: 1310075098673425842}
   - {fileID: 1310075098673425841}
+  - {fileID: 2009388517713513113}
   InitializationMode: 2
   SafeMode: 3
   Direction: 0
@@ -15245,6 +15247,104 @@ MonoBehaviour:
   DebugActive: 0
   FreezeFrameDuration: 0.02
   MinimumTimescaleThreshold: 0.1
+--- !u!114 &2009388517713513113
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1310075098673425855}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c8acfc07fee664da6ad222b6541a44, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Active: 1
+  Label: MMSoundManager Sound
+  Chance: 100
+  Timing:
+    TimescaleMode: 0
+    ExcludeFromHoldingPauses: 0
+    ContributeToTotalDuration: 1
+    InitialDelay: 0
+    CooldownDuration: 0
+    InterruptsOnStop: 1
+    NumberOfRepeats: 0
+    RepeatForever: 0
+    DelayBetweenRepeats: 1
+    MMFeedbacksDirectionCondition: 0
+    PlayDirection: 0
+    ConstantIntensity: 0
+    UseIntensityInterval: 0
+    IntensityIntervalMin: 0
+    IntensityIntervalMax: 0
+    Sequence: {fileID: 0}
+    TrackID: 0
+    Quantized: 0
+    TargetBPM: 120
+  DebugActive: 0
+  Sfx: {fileID: 8300000, guid: bad43dc726b83c347844b9f698f0f5a2, type: 3}
+  RandomSfx: []
+  TestButton: 0
+  TestStopButton: 0
+  MinVolume: 1
+  MaxVolume: 1
+  MinPitch: 1
+  MaxPitch: 1
+  MmSoundManagerTrack: 0
+  ID: 0
+  AudioGroup: {fileID: 0}
+  RecycleAudioSource: {fileID: 0}
+  Loop: 0
+  Persistent: 0
+  DoNotPlayIfClipAlreadyPlaying: 0
+  StopSoundOnFeedbackStop: 0
+  DoNotAutoRecycleIfNotDonePlaying: 0
+  Fade: 0
+  FadeInitialVolume: 0
+  FadeDuration: 1
+  FadeTween:
+    MMTweenDefinitionType: 0
+    MMTweenCurve: 9
+    Curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  SoloSingleTrack: 0
+  SoloAllTracks: 0
+  AutoUnSoloOnEnd: 0
+  PanStereo: 0
+  SpatialBlend: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  Priority: 128
+  ReverbZoneMix: 1
+  DopplerLevel: 1
+  Spread: 0
+  RolloffMode: 0
+  MinDistance: 1
+  MaxDistance: 500
 --- !u!1 &7647180523491387431
 GameObject:
   m_ObjectHideFlags: 0

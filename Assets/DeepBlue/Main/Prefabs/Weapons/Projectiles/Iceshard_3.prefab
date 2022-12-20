@@ -158,8 +158,8 @@ MonoBehaviour:
     m_Bits: 8448
   Owner: {fileID: 0}
   TriggerFilter: 195
-  MinDamageCaused: 20
-  MaxDamageCaused: 20
+  MinDamageCaused: 0.5
+  MaxDamageCaused: 0.5
   TypedDamages: []
   DamageCausedKnockbackType: 1
   DamageCausedKnockbackDirection: 0
@@ -384,6 +384,7 @@ GameObject:
   - component: {fileID: 760234738863085197}
   - component: {fileID: 760234738863085199}
   - component: {fileID: 760234738863085196}
+  - component: {fileID: 397780657731528020}
   m_Layer: 18
   m_Name: DamageFeedback
   m_TagString: Untagged
@@ -421,6 +422,7 @@ MonoBehaviour:
   Feedbacks:
   - {fileID: 760234738863085199}
   - {fileID: 760234738863085196}
+  - {fileID: 397780657731528020}
   InitializationMode: 2
   SafeMode: 3
   Direction: 0
@@ -536,6 +538,53 @@ MonoBehaviour:
   DebugActive: 0
   FreezeFrameDuration: 0.02
   MinimumTimescaleThreshold: 0.1
+--- !u!114 &397780657731528020
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 760234738863085186}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c2ce51367856bd49b72678cc4263225, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Active: 1
+  Label: Sound
+  Chance: 100
+  Timing:
+    TimescaleMode: 0
+    ExcludeFromHoldingPauses: 0
+    ContributeToTotalDuration: 1
+    InitialDelay: 0
+    CooldownDuration: 0
+    InterruptsOnStop: 1
+    NumberOfRepeats: 0
+    RepeatForever: 0
+    DelayBetweenRepeats: 1
+    MMFeedbacksDirectionCondition: 0
+    PlayDirection: 0
+    ConstantIntensity: 0
+    UseIntensityInterval: 0
+    IntensityIntervalMin: 0
+    IntensityIntervalMax: 0
+    Sequence: {fileID: 0}
+    TrackID: 0
+    Quantized: 0
+    TargetBPM: 120
+  DebugActive: 0
+  Sfx: {fileID: 8300000, guid: 0c292913af5326942b2c428ce6ab4582, type: 3}
+  RandomSfx: []
+  TestButton: 0
+  TestStopButton: 0
+  PlayMethod: 0
+  PoolSize: 10
+  MinVolume: 1
+  MaxVolume: 1
+  MinPitch: 1
+  MaxPitch: 1
+  SfxAudioMixerGroup: {fileID: 0}
 --- !u!1 &760234739158519077
 GameObject:
   m_ObjectHideFlags: 0

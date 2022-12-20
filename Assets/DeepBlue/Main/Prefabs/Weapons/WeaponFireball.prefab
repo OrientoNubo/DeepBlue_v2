@@ -51,14 +51,14 @@ MonoBehaviour:
   WeaponCurrentlyActive: 1
   TriggerMode: 0
   DelayBeforeUse: 0
-  DelayBeforeUseReleaseInterruption: 0
-  TimeBetweenUses: 0
+  DelayBeforeUseReleaseInterruption: 1
+  TimeBetweenUses: 0.3
   TimeBetweenUsesReleaseInterruption: 1
   UseBurstMode: 0
   BurstLength: 3
   BurstTimeBetweenShots: 2
   MagazineBased: 1
-  MagazineSize: 5
+  MagazineSize: 3
   AutoReload: 1
   NoInputReload: 0
   ReloadTime: 0.7
