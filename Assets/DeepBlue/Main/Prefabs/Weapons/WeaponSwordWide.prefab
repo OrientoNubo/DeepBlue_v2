@@ -49,7 +49,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   WeaponName: WeaponSwordWide
   WeaponCurrentlyActive: 1
-  TriggerMode: 1
+  TriggerMode: 0
   DelayBeforeUse: 0
   DelayBeforeUseReleaseInterruption: 1
   TimeBetweenUses: 1
@@ -159,7 +159,7 @@ MonoBehaviour:
   MutualizeWaitingPools: 1
   NestWaitingPool: 1
   NestUnderThis: 0
-  GameObjectToPool: {fileID: 4783803382313266655, guid: 2bfaae4cfb5f95e4dbf8b2734d0233eb,
+  GameObjectToPool: {fileID: 7515710452293795521, guid: 507dcf8b6f5d6594b9f3b72022ff48ee,
     type: 3}
   PoolSize: 20
   PoolCanExpand: 1
