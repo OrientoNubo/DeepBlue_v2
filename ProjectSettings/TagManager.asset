@@ -55,6 +55,9 @@ TagManager:
   - name: Foreground
     uniqueID: 1603220759
     locked: 0
+  - name: edge
+    uniqueID: 2896298775
+    locked: 0
   - name: Characters
     uniqueID: 47421343
     locked: 0
