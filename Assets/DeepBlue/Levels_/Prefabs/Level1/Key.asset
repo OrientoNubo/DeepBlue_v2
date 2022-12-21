@@ -34,7 +34,7 @@ MonoBehaviour:
   Quantity: 1
   ItemName: "\u91D1\u9470\u5319"
   ShortDescription: "\u9019\u662F\u4E00\u628A\u597D\u68D2\u7684\u9470\u5319"
-  Description: "\u5C08\u5C6C\u65BC\u706B\u95DC\u5361\u7684\u597D\u68D2\u9470\u5319"
+  Description: "\u7528\u65BC\u958B\u5553\u6B64\u8655\u67D0\u6247\u9580\u7684\u597D\u68D2\u9470\u5319"
   Icon: {fileID: 2136483992, guid: cf363b40319210c46bd381cd5366f537, type: 3}
   Prefab: {fileID: 0}
   DropProperties:
