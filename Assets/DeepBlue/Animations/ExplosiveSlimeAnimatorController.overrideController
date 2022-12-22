@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ExplosiveSlimeAnimatorController
+  m_Controller: {fileID: 9100000, guid: da77c66f989e18742a99fd5be15a144b, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 8def5bfa5f4089944ac33cf802ff680c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 52e515cd9c9ad76448a613d69595ece2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 86652de73d0844e44ace0ad75dc8f25c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c47739205d447a645b15a50dd93658b2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7c6d0b4a79202454682df6c718e788a8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2f6d03c06b74e2140b985f6dadc859a8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0a72e1e47d7a2b24685ae9dd926fbd8f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 217b9786735b4e247b9a39fe51f03500, type: 2}

@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 1007
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Project
   m_RootView: {fileID: 7}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -100,7 +100,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 375
+  controlID: 292
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -150,7 +150,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 121}
   m_MaxSize: {x: 4000, y: 4021}
   vertical: 0
-  controlID: 350
+  controlID: 336
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -246,7 +246,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 419
+  controlID: 370
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -271,7 +271,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 420
+  controlID: 371
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -296,7 +296,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 421
+  controlID: 372
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -398,8 +398,8 @@ MonoBehaviour:
     y: 0
     width: 454
     height: 957
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 28}
   m_Panes:
   - {fileID: 28}
@@ -600,7 +600,7 @@ MonoBehaviour:
   actorTexturesFoldout: 0
   actorSpritesFoldout: 0
   showNodeEditor: 1
-  currentConversationID: 1
+  currentConversationID: 12
   globalSearchText: 
   globalReplaceText: 
   globalSearchSpecificConversation: 0
@@ -636,7 +636,7 @@ MonoBehaviour:
   isSearchBarOpen: 0
   searchString: 
   searchCaseSensitive: 0
-  currentEntryID: 3
+  currentEntryID: -1
   itemFoldouts:
     propertiesKeys: 
     propertiesValues: 
@@ -688,7 +688,7 @@ MonoBehaviour:
   watches: []
   autoUpdateWatches: 0
   watchUpdateFrequency: 1
-  nextWatchUpdateTime: 2485.6880519
+  nextWatchUpdateTime: 5202.8349036
   watchableVariableNames:
   - ActivationCastleGate
   - Actor
@@ -747,7 +747,7 @@ MonoBehaviour:
   addNewNodesToRight: 0
   autoArrangeOnCreate: 0
   zoomLocked: 0
-  _zoom: 1.1199999
+  _zoom: 0.7000004
   canvasRectWidthMultiplier: 1
   canvasScrollView: {x: 100000, y: 100000}
   canvasScrollPosition: {x: 0, y: 0}
@@ -768,12 +768,13 @@ MonoBehaviour:
   - DB_Dialogue_Canaan
   - DB_abyss msg 01
   - DB_abyss msg 02
-  conversationIndex: 0
+  conversationIndex: 11
   snapToGridAmount: 0
   confirmDelete: 1
   trimWhitespaceAroundPipes: 1
   conversationTitleFilter: 
-  prevConversationStack: []
+  prevConversationStack:
+  - Barks
   nextConversationStack: []
 --- !u!114 &21
 MonoBehaviour:
@@ -974,10 +975,10 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 1796}
+      scrollPos: {x: 0, y: 1640}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 6254fdff8e10feff9662feff9c6bfeff886ffeff9ed4feff3e2effff6465fffffea3ffffdca7ffffb2f5fffffefafffff4ffffffba8a0000a8900000d4920000469900009e9900003ea40000b6c70000dad6000034e10000ace1000020e70000eaea000024f20000a8f500004afa0000b4010100f8010100100201000e0401004eca010086ca0100b2490200ca9702000a9b02007a9b0200e09b0200269c0200
+      m_ExpandedIDs: 8e10feff9662feff9c6bfeff886ffeffd6bcfeff04bdfeff9ed4feffece3feff0ee7feff90f6feffcc01ffff1c08ffff5a0affff5010ffff3e2effff6465ffffdca7fffffefaffff4699000034e100004eca010086ca0100b24902006a6802001273020058770200087d020004820200c8830200fe840200ac850200368e02007c920200b2930200a0950200ca9702000a9b02007a9b0200e09b0200269c02005a9d0200b69d0200009f02000aa20200a2a4020084a502007ab7020000d00200b6d60200d8df0200
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1057,7 +1058,7 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: 0, y: 25}
+      snapOffset: {x: 0, y: 0}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: unity-scene-view-toolbar
@@ -1090,7 +1091,7 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: 0, y: 25}
+      snapOffset: {x: 0, y: 0}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: Scene View/Tilemap Focus
@@ -1266,7 +1267,7 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 0
-      snapOffset: {x: 0, y: 25}
+      snapOffset: {x: 0, y: 0}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: Scene View/Particles
@@ -1282,9 +1283,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -378.48224, y: 139.99832, z: 127.83978}
+    m_Target: {x: -246.39886, y: 68.108154, z: -0.002031414}
     speed: 2
-    m_Value: {x: -378.60208, y: 140.0223, z: 132.98859}
+    m_Value: {x: -246.69879, y: 68.209755, z: -0.004896814}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1335,9 +1336,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 8.872292
+    m_Target: 6.081028
     speed: 2
-    m_Value: 9.290358
+    m_Value: 6.3675685
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1404,22 +1405,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/DeepBlue/Levels_/Prefabs/Level1
+    - Assets/DeepBlue/Main/Prefabs/Weapons
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/DeepBlue/Levels_/Prefabs/Level1
+  - Assets/DeepBlue/Main/Prefabs/Weapons
   m_LastFoldersGridSize: 16
   m_LastProjectPath: H:\GitHub\DeepBlue_v3
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 255}
-    m_SelectedIDs: dc410100
-    m_LastClickedID: 82396
-    m_ExpandedIDs: 000000001e250100c6260100c8260100b63b0100fc66010028740100508201001096010000ca9a3b
+    scrollPos: {x: 0, y: 290}
+    m_SelectedIDs: e0180300
+    m_LastClickedID: 202976
+    m_ExpandedIDs: 00000000ccf60200e0f60200f8f60200fcf60200fef6020000f70200e41f03008c270300e62b030000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1447,7 +1448,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000001e25010000ca9a3b
+    m_ExpandedIDs: 00000000ccf6020000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1475,7 +1476,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000669200006c92000064920000e816010026d50600fad2030068920000b2eb0200cc95000000000000
+    m_ExpandedInstanceIDs: c6230000669200006c92000064920000e816010026d50600fad2030068920000b2eb0200cc95000000000000c4d40000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1568,7 +1569,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 270
+  m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:

@@ -4996,7 +4996,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2)
         type: 0
         typeString: CustomFieldType_Text
       - title: EventGuid
@@ -5115,7 +5115,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2)
         type: 0
         typeString: CustomFieldType_Text
       - title: EventGuid
@@ -5174,7 +5174,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2)
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 9
@@ -5284,7 +5284,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       - title: EventGuid
@@ -5343,7 +5343,11 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: SetActive(MainGate - CM vcam2, false);
+        value: 'Audio(African2);
+
+          SetActive(MainGate - CM vcam2, false);
+
+'
         type: 0
         typeString: CustomFieldType_Text
       - title: EventGuid
@@ -5446,7 +5450,9 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 'SetActive(MainGate - CM vcam2);
+        value: 'Audio(African2);
+
+          SetActive(MainGate - CM vcam2);
 
 '
         type: 0
@@ -5493,8 +5499,8 @@ MonoBehaviour:
         width: 435.11755
         height: 397.47058
       color: {r: 1, g: 1, b: 1, a: 0.5}
-    canvasScrollPosition: {x: 0, y: 0}
-    canvasZoom: 0.87999964
+    canvasScrollPosition: {x: 84.15467, y: 88.48128}
+    canvasZoom: 0.9399996
   - id: 10
     fields:
     - title: Title
@@ -5647,7 +5653,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       - title: EventGuid
@@ -5761,7 +5767,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 10
@@ -5785,7 +5791,7 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 61.24997
+        x: 63.17305
         y: 259.0625
         width: 160
         height: 30
@@ -5816,7 +5822,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 10
@@ -5867,7 +5873,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: "\u600E\u9EBD\u6A23\u624D\u80FD\u56DE\u53BB\uFF1F\u6211\u6709\u4E00\u500B\u670B\u53CB\uFF0C\u6211\u5FC5\u9808\u8981\u627E\u5230\u5979\u3002"
+        value: "\u600E\u9EBD\u6A23\u624D\u80FD\u56DE\u53BB\uFF1F\n\u6211\u548C\u670B\u53CB\u8D70\u6563\u4E86\uFF0C\u6211\u5FC5\u9808\u8981\u627E\u5230\u5979\u3002"
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -5928,7 +5934,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 10
@@ -5983,7 +5989,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 10
@@ -6039,7 +6045,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 10
@@ -6095,7 +6101,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 10
@@ -6150,7 +6156,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 10
@@ -6207,7 +6213,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 10
@@ -6256,7 +6262,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       - title: EventGuid
@@ -6318,7 +6324,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 10
@@ -6373,9 +6379,13 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
+      - title: Response Menu Sequence
+        value: 
+        type: 0
+        typeString: 
       conversationID: 10
       isRoot: 0
       isGroup: 0
@@ -6428,7 +6438,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 10
@@ -6483,7 +6493,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       - title: EventGuid
@@ -6543,7 +6553,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 10
@@ -6598,7 +6608,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 10
@@ -6653,7 +6663,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 10
@@ -6708,7 +6718,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 10
@@ -6763,7 +6773,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 10
@@ -6818,7 +6828,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 10
@@ -6873,7 +6883,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 10
@@ -6928,7 +6938,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 10
@@ -6983,7 +6993,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 10
@@ -7038,7 +7048,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 10
@@ -7144,7 +7154,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: "\uFF08Vouger\u671B\u5411\u624B\u4E2D\u7684\u528D\uFF0C\u56DE\u60F3\u8D77Abyss\u66FE\u5C07\u6B64\u5B83\u7559\u7D66\u6BCD\u89AA\u6642\u7684\u610F\u7FA9\uFF0C\u7DE9\u7DE9\u5730\u6309\u4E0B\u4E86\u528D\u984E\u4E0A\u7684\u6A5F\u95DC......\uFF09"
+        value: "\uFF08Vouger\u671B\u5411\u624B\u4E2D\u7684\u528D\uFF0C\n\u56DE\u60F3\u8D77Abyss\u66FE\u5C07\u6B64\u5B83\u7559\u7D66\u6BCD\u89AA\u6642\u7684\u610F\u7FA9\uFF0C\n\u7DE9\u7DE9\u5730\u6309\u4E0B\u4E86\u528D\u984E\u4E0A\u7684\u6A5F\u95DC......\uFF09"
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -7172,7 +7182,7 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1135.1445
+        x: 1136.1445
         y: 824.47296
         width: 160
         height: 30
@@ -7203,7 +7213,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 10
@@ -7255,7 +7265,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 10
@@ -7310,7 +7320,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 10
@@ -7365,7 +7375,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 10
@@ -7416,11 +7426,11 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: 
+        value: '                    '
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       - title: EventGuid
@@ -7473,7 +7483,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: 
       - title: EventGuid
@@ -7528,7 +7538,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: 
       - title: EventGuid
@@ -7582,7 +7592,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: 
       conversationID: 10
@@ -7635,8 +7645,8 @@ MonoBehaviour:
         width: 440.8745
         height: 783.9536
       color: {r: 1, g: 1, b: 1, a: 0.5}
-    canvasScrollPosition: {x: 535.7485, y: 537.5464}
-    canvasZoom: 0.99999976
+    canvasScrollPosition: {x: 26.455544, y: 31.723068}
+    canvasZoom: 0.52
   - id: 11
     fields:
     - title: Title
@@ -7801,7 +7811,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       - title: EventGuid
@@ -7860,7 +7870,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 11
@@ -7915,7 +7925,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 11
@@ -8026,7 +8036,9 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: SetActive(ToDung - CM vcam2);
+        value: 'Audio(African2);
+
+          SetActive(ToDung - CM vcam2);'
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 11
@@ -8081,7 +8093,9 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: SetActive(ToDung - CM vcam2, false);
+        value: 'Audio(African2);
+
+          SetActive(ToDung - CM vcam2, false);'
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 11
@@ -8136,9 +8150,13 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
+      - title: EventGuid
+        value: 228063a3-8796-4446-b6c6-462d580d96b1
+        type: 0
+        typeString: 
       conversationID: 11
       isRoot: 0
       isGroup: 0
@@ -8190,7 +8208,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       - title: EventGuid
@@ -8251,7 +8269,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 11
@@ -8275,7 +8293,7 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 480.54938
+        x: 482.3676
         y: 208.05966
         width: 160
         height: 30
@@ -8306,7 +8324,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 11
@@ -8361,7 +8379,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 11
@@ -8416,7 +8434,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 11
@@ -8471,7 +8489,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       - title: EventGuid
@@ -8530,7 +8548,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 11
@@ -8585,9 +8603,13 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
+      - title: EventGuid
+        value: 59888818-1885-4c78-98e9-1c49341859e5
+        type: 0
+        typeString: 
       conversationID: 11
       isRoot: 0
       isGroup: 0
@@ -8640,7 +8662,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 11
@@ -8695,7 +8717,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       - title: EventGuid
@@ -8754,7 +8776,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       - title: EventGuid
@@ -8809,7 +8831,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       - title: EventGuid
@@ -8870,7 +8892,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 11
@@ -8925,7 +8947,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 11
@@ -8980,7 +9002,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 11
@@ -9035,7 +9057,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 11
@@ -9090,7 +9112,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       - title: EventGuid
@@ -9149,11 +9171,11 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       - title: EventGuid
-        value: d986907f-bb1a-4cf2-b11c-317fad561b7a
+        value: 781ef1b4-166c-4cdb-9df0-4f8beec5b50c
         type: 0
         typeString: 
       conversationID: 11
@@ -9204,7 +9226,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       - title: EventGuid
@@ -9258,7 +9280,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: 
       conversationID: 11
@@ -9313,7 +9335,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: 
       - title: EventGuid
@@ -9342,7 +9364,7 @@ MonoBehaviour:
       canvasRect:
         serializedVersion: 2
         x: 250.88063
-        y: 258.55222
+        y: 256.73404
         width: 160
         height: 30
     - id: 29
@@ -9372,7 +9394,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: 
       - title: EventGuid
@@ -9427,7 +9449,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: 
       - title: EventGuid
@@ -9482,7 +9504,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: 
       - title: EventGuid
@@ -9543,8 +9565,8 @@ MonoBehaviour:
         width: 272.6416
         height: 162.194
       color: {r: 1, g: 1, b: 1, a: 0.5}
-    canvasScrollPosition: {x: 466.58176, y: 34.991158}
-    canvasZoom: 0.79
+    canvasScrollPosition: {x: 0, y: 0}
+    canvasZoom: 0.5500003
   - id: 12
     fields:
     - title: Title
@@ -9721,7 +9743,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       - title: EventGuid
@@ -9776,7 +9798,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: "\u4F60\u597D\uFF0C\u96D6\u7136\u6211\u4E0D\u77E5\u9053\u7A76\u7ADF\u767C\u751F\u4E86\u4EC0\u9EBD\uFF0C\u4F46\u6211\u6709\u4E00\u500B\u670B\u53CB\uFF0C\u5979\u53EBSkelis\uFF0C\u6709\u8457\u8679\u8272\u7684\u9577\u9AEE\uFF0C\u8ACB\u554F\u4F60\u6709\u898B\u904E\u5979\u55CE\uFF1F"
+        value: "\u6253\u64FE\u4E86\uFF0C\u8ACB\u554F\u4F60\u6709\u770B\u5230\u904E\u4E00\u500B\u5973\u5B69\u55CE\uFF0C\n\u5979\u53EBSkelis\uFF0C\u6709\u8457\u8679\u8272\u7684\u9577\u9AEE\uFF0C\u78A7\u8272\u7684\u773C\u77B3......"
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -9836,7 +9858,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 12
@@ -9891,7 +9913,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 12
@@ -9946,7 +9968,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 12
@@ -10001,7 +10023,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 12
@@ -10054,7 +10076,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       - title: EventGuid
@@ -10117,7 +10139,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       - title: EventGuid
@@ -10176,7 +10198,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       - title: EventGuid
@@ -10231,7 +10253,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       - title: EventGuid
@@ -10292,7 +10314,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       - title: EventGuid
@@ -10351,7 +10373,9 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: SetActive(ToAbyss - CM vcam2);
+        value: 'Audio(African2);
+
+          SetActive(ToAbyss - CM vcam2);'
         type: 0
         typeString: CustomFieldType_Text
       - title: Response Menu Sequence
@@ -10410,7 +10434,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 12
@@ -10462,7 +10486,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       - title: EventGuid
@@ -10522,7 +10546,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: "\u62DC\u8A17\u4E86\uFF0C\u9019\u5C0D\u6211\u4F86\u8AAA\u5F88\u91CD\u8981\uFF0C\u56E0\u70BAAbyss\u5E0C\u671B\u9019\u528D\u5B88\u8B77\u7684\u4EBA\uFF0C\u662F\u6211\u7684\u6BCD\u89AA\uFF0CArk\u3002\u9019\u4E00\u5207\u4E00\u5B9A\u6709\u4EC0\u9EBC\u610F\u7FA9......"
+        value: "\u62DC\u8A17\u4E86\uFF0C\u9019\u5C0D\u6211\u4F86\u8AAA\u5F88\u91CD\u8981\u3002\nAbyss\u7576\u521D\u5E0C\u671B\u9019\u528D\u5B88\u8B77\u7684\u4EBA\uFF0C\u662F\u6211\u7684\u6BCD\u89AA\uFF0CArk\u3002\n\u9019\u4E00\u5207\u4E00\u5B9A\u6709\u4EC0\u9EBC\u610F\u7FA9......"
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -10577,11 +10601,11 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: "\u55EF... \u6211\u76E1\u529B......"
+        value: "\u55EF... \n\u90A3\u6211\u76E1\u529B......\n...... \u6309\u7167\u80FD\u91CF\u7684\u6D41\u52D5...... "
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 12
@@ -10632,12 +10656,12 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: "...... \u9019\u6A23... \u518D\u9019\u6A23... \u5C31\u61C9\u8A72\u4FEE\u5FA9\u597D\u4E86\uFF0C\u4F3C\u4E4E\u9019\u628A\u528D\u7684\u5185\u90E8\u958B\u59CB\u805A\u96C6\u4E00\u4E9B\u80FD\u91CF\uFF0C\u9019\u8B93\u6211\u611F\u53D7\u5230\u4E86\u4E00\u7A2E\u7121\u6CD5\u5F62\u5BB9\u7684\u58D3\u8FEB......
-          \u9019\u80A1\u529B\u91CF\u4F3C\u4E4E\u8207\u6211\u7684\u9B54\u6CD5\u6709\u5F88\u5F3A\u7684\u76F8\u65A5\u6027......"
+        value: "\u9019\u6A23\u4E00\u4F86\uFF0C\u61C9\u8A72\u5C31\u4FEE\u5FA9\u597D\u4E86\uFF0C\u4F3C\u4E4E\u9019\u628A\u528D\u7684\u5185\u90E8\u958B\u59CB\u805A\u96C6\u4E00\u4E9B\u80FD\u91CF\uFF0C\u9019\u8B93\u6211\u611F\u53D7\u5230\u4E86\u4E00\u7A2E\u7121\u6CD5\u5F62\u5BB9\u7684\u58D3\u8FEB......
+          \n\n\u9019\u80A1\u529B\u91CF\u4F3C\u4E4E\u8207\u6211\u7684\u9B54\u6CD5\u6709\u5F88\u5F3A\u7684\u76F8\u65A5\u6027......"
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       - title: EventGuid
@@ -10691,7 +10715,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 12
@@ -10738,11 +10762,11 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: "\u6240\u4EE5\u9019\u4E9B\u7834\u788E\u7684\u96F6\u4EF6\u53EF\u4EE5\u7D44\u6210\u4E00\u628A\u5B8C\u6574\u7684...\u528D\uFF1F\u4F60\u5E0C\u671B\u6211\u4FEE\u5FA9\u9019\u500B\u7834\u640D\u55CE\uFF1F\u6211\u60F3\u9019\u6211\u61C9\u8A72\u9084\u662F\u53EF\u4EE5\u505A\u5230\u7684\u3002"
+        value: "\u6240\u4EE5\u9019\u4E9B\u7834\u788E\u7684\u96F6\u4EF6\u53EF\u4EE5\u7D44\u6210\u4E00\u628A\u5B8C\u6574\u7684...\u528D\uFF1F\u4F60\u5E0C\u671B\u6211\u4FEE\u5FA9\u9019\u500B\u7834\u640D\u55CE\uFF1F\u6211\u60F3\u9019\u6211\u61C9\u8A72\u9084\u662F\u53EF\u4EE5\u505A\u5230\u7684\u3002\n\u4F46\u662F\uFF0C\u5982\u679C\u8981\u4FEE\u5FA9\u5B83\uFF0C\u4F60\u5C31\u4E0D\u80FD\u518D\u4F7F\u7528\u539F\u4F86\u7684\u65B7\u528D\u4E86\uFF0C\u9019\u6A23\u53EF\u4EE5\u55CE\uFF1F"
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 12
@@ -10797,7 +10821,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 12
@@ -10858,7 +10882,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 12
@@ -10907,7 +10931,13 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: SetActive(ToAbyss - CM vcam2, false);
+        value: 'Audio(African2);
+
+          SetActive(ToAbyss - CM vcam2, false);'
+        type: 0
+        typeString: 
+      - title: Response Menu Sequence
+        value: 
         type: 0
         typeString: 
       conversationID: 12
@@ -10962,7 +10992,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: 
       - title: EventGuid
@@ -11017,7 +11047,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: 
       - title: EventGuid
@@ -11041,7 +11071,7 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 673.21356
+        x: 674.6421
         y: 186.932
         width: 160
         height: 30
@@ -11072,7 +11102,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: 
       - title: EventGuid
@@ -11130,7 +11160,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: 
       conversationID: 12
@@ -11185,7 +11215,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: 
       conversationID: 12
@@ -11246,8 +11276,8 @@ MonoBehaviour:
         width: 418.4087
         height: 328.72433
       color: {r: 1, g: 1, b: 1, a: 0.5}
-    canvasScrollPosition: {x: 381.93948, y: 87.50841}
-    canvasZoom: 0.88000023
+    canvasScrollPosition: {x: 0, y: 0}
+    canvasZoom: 0.7000004
   - id: 13
     fields:
     - title: Title
@@ -11400,7 +11430,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       - title: Response Menu Sequence
@@ -11463,7 +11493,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 13
@@ -11518,7 +11548,9 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: SetActive(ToTomb - CM vcam2);
+        value: 'Audio(African2);
+
+          SetActive(ToTomb - CM vcam2);'
         type: 0
         typeString: CustomFieldType_Text
       - title: EventGuid
@@ -11549,7 +11581,7 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 711.5836
+        x: 715.22
         y: 302.47046
         width: 160
         height: 30
@@ -11581,7 +11613,9 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: SetActive(ToTomb - CM vcam2, false);
+        value: 'Audio(African2);
+
+          SetActive(ToTomb - CM vcam2, false);'
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 13
@@ -11637,7 +11671,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 13
@@ -11655,7 +11689,7 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 713.63727
+        x: 715.45544
         y: 403.73627
         width: 160
         height: 30
@@ -11687,7 +11721,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       - title: EventGuid
@@ -11743,7 +11777,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       - title: EventGuid
@@ -11797,7 +11831,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 13
@@ -11817,7 +11851,7 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 265
+        x: 266.81818
         y: 133
         width: 160
         height: 30
@@ -11848,7 +11882,9 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: SetActive(ToAdmin - CM vcam2);
+        value: 'Audio(African2);
+
+          SetActive(ToAdmin - CM vcam2);'
         type: 0
         typeString: 
       conversationID: 13
@@ -11903,7 +11939,9 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: SetActive(ToAdmin - CM vcam2, false);
+        value: 'Audio(African2);
+
+          SetActive(ToAdmin - CM vcam2, false);'
         type: 0
         typeString: 
       conversationID: 13
@@ -11927,7 +11965,7 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 54
+        x: 55.81819
         y: 278
         width: 160
         height: 30
@@ -11958,7 +11996,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: 
       - title: EventGuid
@@ -12012,8 +12050,8 @@ MonoBehaviour:
         width: 216
         height: 104
       color: {r: 1, g: 1, b: 1, a: 0.5}
-    canvasScrollPosition: {x: 412.06815, y: 165.15033}
-    canvasZoom: 1.3899999
+    canvasScrollPosition: {x: 0, y: 0}
+    canvasZoom: 0.55000067
   - id: 14
     fields:
     - title: Title
@@ -12148,7 +12186,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       - title: EventGuid
@@ -12207,7 +12245,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 14
@@ -12262,7 +12300,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 14
@@ -12318,7 +12356,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 14
@@ -12373,7 +12411,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 14
@@ -12428,7 +12466,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 14
@@ -12483,7 +12521,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 14
@@ -12538,7 +12576,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       - title: EventGuid
@@ -12561,7 +12599,7 @@ MonoBehaviour:
       canvasRect:
         serializedVersion: 2
         x: 65.9037
-        y: 474.8318
+        y: 473.1076
         width: 160
         height: 30
     - id: 9
@@ -12591,7 +12629,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: 
       conversationID: 14
@@ -12609,8 +12647,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 325.74466
-        y: 111.489365
+        x: 398.15842
+        y: 140.79971
         width: 160
         height: 30
     entryGroups:
@@ -12622,8 +12660,8 @@ MonoBehaviour:
         width: 236
         height: 452
       color: {r: 1, g: 1, b: 1, a: 0.5}
-    canvasScrollPosition: {x: 0, y: 0}
-    canvasZoom: 0.94000006
+    canvasScrollPosition: {x: 11.285238, y: 6.8651924}
+    canvasZoom: 0.5800003
   - id: 15
     fields:
     - title: Title
@@ -12764,7 +12802,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 15
@@ -12813,9 +12851,13 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
+      - title: Response Menu Sequence
+        value: 
+        type: 0
+        typeString: 
       conversationID: 15
       isRoot: 0
       isGroup: 0
@@ -12862,7 +12904,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: 
       conversationID: 15
@@ -13015,7 +13057,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: Audio(African2);
         type: 0
         typeString: CustomFieldType_Text
       conversationID: 16
