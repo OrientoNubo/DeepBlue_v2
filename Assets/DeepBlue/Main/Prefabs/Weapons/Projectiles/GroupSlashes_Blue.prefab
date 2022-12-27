@@ -391,7 +391,7 @@ MonoBehaviour:
   Owner: {fileID: 0}
   TriggerFilter: 195
   MinDamageCaused: 5
-  MaxDamageCaused: 5
+  MaxDamageCaused: 10
   TypedDamages: []
   DamageCausedKnockbackType: 1
   DamageCausedKnockbackDirection: 0
